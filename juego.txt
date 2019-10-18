@@ -1,0 +1,124 @@
+raton
+['|', 'a', '|', '|', '|']
+
+
+   +---+
+   |   |
+   |
+   |
+   |
+   |
+=========  PALABRA CORRECTA, TOTAL DE VIDAS:   5    LETRA USADA:  a
+
+
+
+
+
+
+
+
+
+
+
+['r', 'a', '|', '|', '|']
+
+
+   +---+
+   |   |
+   |
+   |
+   |
+   |
+=========  PALABRA CORRECTA, TOTAL DE VIDAS:   5    LETRA USADA:  r
+
+
+
+
+
+
+
+
+
+
+
+['r', 'a', 't', '|', '|']
+
+
+   +---+
+   |   |
+   |
+   |
+   |
+   |
+=========  PALABRA CORRECTA, TOTAL DE VIDAS:   5    LETRA USADA:  t
+
+
+
+
+
+
+
+
+
+
+
+['r', 'a', 't', 'o', '|']
+
+
+   +---+
+   |   |
+   |
+   |
+   |
+   |
+=========  PALABRA CORRECTA, TOTAL DE VIDAS:   5    LETRA USADA:  o
+
+
+
+
+
+
+
+
+
+
+
+['r', 'a', 't', 'o', 'n']
+
+
+   +---+
+   |   |
+   |
+   |
+   |
+   |
+=========  PALABRA CORRECTA, TOTAL DE VIDAS:   5    LETRA USADA:  n
+
+
+
+
+
+
+
+
+
+
+
+
+   +---+
+   |   |
+   |
+   |
+   |
+   |
+=========  PALABRA CORRECTA, TOTAL DE VIDAS:   5    LETRA USADA:  n
+
+
+
+
+
+
+
+
+
+
